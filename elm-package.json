@@ -1,8 +1,8 @@
 {
     "version": "1.0.0",
-    "summary": "Just a basic template for simple apps I hack together",
-    "repository": "https://github.com/starkaudio/elm-app-template.git",
-    "license": "BSD3",
+    "summary": "Just me fiddlin' with svg...",
+    "repository": "https://github.com/starkaudio/ebasic-svg-explorations.git",
+    "license": "MIT",
     "source-directories": [
         "."
     ],
